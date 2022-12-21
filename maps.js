@@ -6,7 +6,7 @@
 const emojis = {
     '-': ' ',
     'O': '🚪',
-    'X': '🐍',
+    'X': '🌲',
     'I': '🎌',
     'PLAYER': '🏃‍♂️',
     'BOMB_COLLISION': '🔥',
