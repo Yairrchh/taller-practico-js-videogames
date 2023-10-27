@@ -14,16 +14,17 @@ const emojis = {
     'WIN': '🏆',
     'HEART': '❤️',
   };
-  
+
   const maps = [];
+
   maps.push(`
-    X-IXXXXXXX
-    --XXXXXXXX
-    -XXXXXXXXX
-    -XXXXXXXXX
-    -XXXXXXXXX
-    -XXXXXXXXX
-    -XXXXXXXXX
+    XXXXXXXXXX
+    ----XXXXXX
+    -XX--XXXXX
+    -XXX-XXXXX
+    -XXX-XXXXX
+    -XXX-XXXXX
+    -XXXIXXXXX
     -XXXXXXXXX
     -XXXXXXXXX
     OXXXXXXXXX
@@ -41,8 +42,8 @@ const emojis = {
     XXXXXXXXXX
     `);
   maps.push(`
-    I-----XXXX
-    XXXXX-XXXX
+    XXXXXXXXXX
+    XXXX----IX
     XX----XXXX
     XX-XXXXXXX
     XX-----XXX
